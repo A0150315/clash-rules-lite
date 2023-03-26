@@ -1019,4 +1019,5 @@ payload:
   - DOMAIN-SUFFIX,onlineinstagram.com
   - DOMAIN-SUFFIX,web-instagram.net
   - DOMAIN-SUFFIX,wwwinstagram.com
-
+  # v2ex
+  - DOMAIN-SUFFIX,v2ex.com
