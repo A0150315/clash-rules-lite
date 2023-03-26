@@ -1,5 +1,3 @@
 payload:
-  - DOMAIN-KEYWORD,xbox  
-  - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,163.com
